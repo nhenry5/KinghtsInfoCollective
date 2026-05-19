@@ -1,0 +1,61 @@
+Forums:
+
+Can RTK be used indoors? Reasons it can't be used and 4 alternatives
+https://www.lefixea.com/article/rtk37
+
+Indoor Positioning: Navigating Indoor Spaces and Day-to-Day Workflows with ArcGIS IPS
+https://www.esri.com/arcgis-blog/products/arcgis-ips/indoor-gis/indoor-positioning-system-indoor-navigation-asset-tracking-wayfinding
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Videos:
+************ GPS USAGE **************
+GPS-Denied, Anti-Jam Autonomous DIY Drone: How It Works
+https://www.youtube.com/watch?v=p8frNNYQNV4
+
+
+
+******  SOFTWARE SERIES   ***********
+Drone Software Development
+https://www.youtube.com/watch?v=AP1UC0DlIrE&list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6
+
+
+
+****** COMPANION COMPUTER SETUP: WAYPOINT DIRECTIVE, TELEMETRY, S/W PYTHON CONTROL ***************
+Connect a Raspberry Pi to a Pixhawk running Ardupilot/PX4
+https://www.youtube.com/watch?v=cZVNndOaYCE
+
+How can I read a Drone's Telemetry with Python and Dronekit?
+https://www.youtube.com/watch?v=_CZ8LHglGhE
+
+Drone Delivery and Mission Handling with Python
+https://www.youtube.com/watch?v=iL5DIqL9qdE
+
+Connecting Raspberry Pi w/ Pixhawk and Communicating via MAVLink Protocol
+https://www.youtube.com/watch?v=DGAB34fJQFc
+
+
+
+
+************* Termnology *****************
+All the confusing names in 'Pixhawk' explained (Mission Planner, PX4, Ardupilot, Pixhawk etc.)
+https://www.youtube.com/watch?v=0vBXFjhw-5M
+
+
+
+
+*********** DETAILED GUIDES *************
+Building a sub 250g Autonomous Drone with Ardupilot and ExpressLRS AirPort Telemetry
+https://www.youtube.com/watch?v=u_ArriXbrR0
+
+Make Your Own Pixhawk Raspberry Pi Drone in 36 Minutes (2020) | The Ultimate Project Drone
+https://www.youtube.com/watch?v=kB9YyG2V-nA
+
+
+********** 3D MODELIMG ******************
+2D / 3D Dual SLAM Robot using ROS and LiDAR with Raspberry Pi
+https://www.youtube.com/watch?v=34n1tF5OtQU
+
+3D Mapping With UAVs Using RealSense D435 and RTAB-Map
+https://www.youtube.com/watch?v=oDilesu1los
